@@ -27,7 +27,7 @@
 
 | Name | Modeling Role | Measurement Level| Description|
 | ---- | ------------- | ---------------- | ---------- |
-|**date_block_num**| time index | int | monthly index to represent time (e.g., 0 = January 2013 |
+|**date_block_num**| time index | int | monthly index to represent time (e.g., 0 = January 2013) |
 | **shop_id** | ID | int | unique identifier for each shop |
 | **item_id** | ID | int | unique identifier for each item |
 | **item_cnt_month** | target | float | total units sold for an item in a shop during the month |
