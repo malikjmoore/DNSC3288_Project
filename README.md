@@ -111,3 +111,8 @@ Figure 1. Feature Importance graph for inputs.
 * Unexpected results
   * One possible unexpected result that could arise from the use of this model is predictions of zero for new products, as it would not have the historical data necessary to produce values for the lag variables.
   * Another unexpected result could be the delayed reactions to change. Many of the lag variables are for the past 2 or 3 months, meaning it would take a longer period for demand spikes to be reflected in model predictions. 
+
+### References
+* Code Example used: https://www.kaggle.com/code/dlarionov/feature-engineering-xgboost
+* Google Colab Gemini AI assistant was used for assistance in coding development.
+* ChatGPT was used for assistance in data dictionary.
